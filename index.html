@@ -1,26 +1,33 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Home
 ---
 
-{% for post in site.posts %}
-<article class="entry">
-  <header>
-    <h1 class="entry-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
     </h1>
-    <p class="entry-meta">
-      <time>{{ post.date | date: '%Y/%m/%d %A' }}</time>
-    </p>
-  </header>
 
-  {% assign fragments = post.content | split: site.excerpt_separator %}
-  {% assign size = fragments | size %}
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-  {{ fragments | first }}
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
 
-  {% if size > 1 %}<p><a href="{{ post.url }}">Continue read &rarr;</a></p>{% endif %}
-</article>
-{% endfor %}
-
-{% include pagination.html %}
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

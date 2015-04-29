@@ -1,54 +1,30 @@
-# ---------------------- #
-#      Site Configs      #
-# ---------------------- #
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
-name: My Blog
-url: http://my-blog.com
-permalink: blog/:title.html
-paginate: 5
-paginate_path: /page/:num
-excerpt_separator: '<!-- more -->'
+# Setup
+title:               Poole
+tagline:             The Jekyll Butler
+url:                 http://getpoole.com
+paginate:            1
+baseurl:             ""
 
-
-# ---------------------- #
-#         Jekyll         #
-# ---------------------- #
-
-safe: true
-markdown: redcarpet
-exclude: ['Gemfile', 'Gemfile.lock']
-timezone: Asia/Shanghai
-
-
-# ---------------------- #
-#      Compile Sass      #
-# ---------------------- #
-
-# run `compass help compile` in terminal to find more available options
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir: _sass
-  debug_info: true
-  # output_style: compressed
+  sass_dir:          _sass
+  style:            :compressed
 
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
-# ---------------------- #
-#       Deployment       #
-# ---------------------- #
-
-deploy:
-  repository:
-  branch:
-
-
-# ---------------------- #
-#    Social Networks     #
-# ---------------------- #
-
-# weibo:
-#   username:
-#   uid:
-#   appkey:
-
-# duoshuo:
-
-# google_analytics:
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/poole/poole
