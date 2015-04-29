@@ -17,7 +17,7 @@ Why on frosty unicorn balls would we do this? Don't we wanna be the next big thi
 
 We care more about connecting deeply than broadly. That's it. So we're gonna focus on building a great app that our friends have fun using. 
 
-So join us! Tell us what about Pegg makes your face melt with joy. Tell us what makes you hate this steamy pile. Help us make Pegg yours.
+So [log in](http://pegg.us) and join us! Tell us what about Pegg makes your face melt with joy. Tell us what makes you hate this steamy pile. Help us make Pegg yours.
 
 Thanks!
 
