@@ -20,9 +20,7 @@ We care more about connecting deeply than broadly. That's it. So we're gonna foc
 So join us! Tell us what about Pegg makes your face melt with joy. Tell us what makes you hate this steamy pile. Help us make Pegg yours.
 
 Thanks!
-
 Augustin Bralley
-Chief Unicorn
 
 P.S.
 ![farting rainbows](http://media3.giphy.com/media/8XjrxDGGHvc1q/giphy.gif "Small example image")
