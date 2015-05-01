@@ -3,7 +3,7 @@ layout: post
 title: Hello Friends!
 ---
 
-If you're reading this you're likely someone the creators of [Pegg](http://pegg.us) know personally. Congrats! We kick ass. And by extension so do you.
+If you're reading this you're likely someone the creators of [Pegg](http://pegg.us) know personally. Congrats! We kick ass. And probably so do you.
 
 Pegg is a special kind of thing... an experiment as much as an app. Our hypothesis:
 
@@ -17,7 +17,7 @@ Why on frosty unicorn balls would we do this? Don't we wanna be the next big thi
 
 We care more about connecting deeply than broadly. That's it. So we're gonna focus on building a great app that our friends have fun using. 
 
-So [log in](http://pegg.us) and join us! Tell us what about Pegg makes your face melt with joy. Tell us what makes you hate this steamy pile. Help us make Pegg yours.
+[Log in](http://pegg.us) and join us! Tell us what about Pegg makes your face melt with joy. Tell us what makes you hate this steamy pile. Help us make Pegg yours.
 
 Thanks!
 
