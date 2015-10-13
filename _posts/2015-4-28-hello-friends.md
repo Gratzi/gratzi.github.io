@@ -21,7 +21,7 @@ We care more about connecting deeply than broadly. That's it. So we're gonna foc
 
 Thanks!
 
-Augustin Bralley
+Augustin Bralley.
 
 P.S.
 ![farting rainbows](http://media3.giphy.com/media/8XjrxDGGHvc1q/giphy.gif "Small example image")
