@@ -10,14 +10,14 @@ published: true
 Last night I attended the [Thrivable Future Salon](http://www.futuresalon.org/2015/09/thrivable-future-salon-14th-of-october.html "Future Salon") hosted by Jean Russell and Mark Finnern. It was one of those times when I felt truly grateful for living in San Francisco and being a part of the magic here. I found myself in a room full of people doing amazing things, dreaming big, making their life’s work about building a better future for all. My people.
 ##Topics covered
 
-- Decentralizing Data
-- Real Learning
+- [Decentralizing Data](http://spaciousness.org/)
+- [Real Learning](http://reallearning.biz/)
 - Abundant Energy
-- Massive collaboration, e.g. Wikipedia
+- [Massive collaboration](http://wikistrategies.net/), e.g. Wikipedia
 - Micropayments and a World Data Bank
-- Thrivability
+- [Thrivability](http://www.triarchypress.net/thrivability.html)
 - Community Development
-- Basic Income
+- [Basic Income](http://www.basicincome.org/basic-income/)
 
 My big takeaway is this: **huge groups of people will find themselves without jobs soon.** The largest segment of the US workforce is Transportation… and if you don’t think self-driving cars are coming, you’re wrong. What happens when 4 million people are suddenly out of a job?
 
@@ -35,6 +35,6 @@ If we educate people in practical and rewarding ways, guided by each individual'
 
 If we foster strong communities that understand their place in the global narrative, we can create positive change that begins where it counts and then trickles up.
 
-If we believe that the world doesn’t have to be a terrible place, doomed to resource war and total extinction of all life, then we can start to open our minds to beautiful alternatives.
+If we believe that the world doesn’t have to be a terrible place, doomed to resource war and total extinction of all life, then we can open our minds to beautiful alternatives.
 
 If we build a thrivable future, then we can live in one.
