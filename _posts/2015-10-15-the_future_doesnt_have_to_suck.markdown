@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "The future doesn't have to suck"
-date: 2015-10-15T12:34:25.000Z
+date: 2015-10-15T12:34:26.000Z
 categories: thrivability
 published: true
-image: /assets/article_images/2015-10-15-the_future_doesnt_have_to_suck/tumblr_nr3awxk5Pr1teue7jo1_1280.png
+image: "/assets/article_images/2015-10-15-the_future_doesnt_have_to_suck/tumblr_nr3awxk5Pr1teue7jo1_1280.png"
 ---
+
 >"We're at the crux of becoming Star Trek or Star Wars." - Greg Chase, Pivotal Software, Inc.
 
 Last night I attended the [Thrivable Future Salon](http://www.futuresalon.org/2015/09/thrivable-future-salon-14th-of-october.html "Future Salon") hosted by Jean Russell and Mark Finnern. It was one of those times when I felt truly grateful for living in San Francisco and being a part of the magic here. I found myself in a room full of people doing amazing things, dreaming big, making their life’s work about building a better future for all. My people.
@@ -16,7 +17,7 @@ Last night I attended the [Thrivable Future Salon](http://www.futuresalon.org/20
 - Abundant Energy
 - [Massive collaboration](http://wikistrategies.net/), e.g. Wikipedia
 - Micropayments and a World Data Bank
-- [Thrivability](http://www.triarchypress.net/thrivability.html)
+- [Thrivability](http://thrivable.net/)
 - Community Development
 - [Basic Income](http://www.basicincome.org/basic-income/)
 
@@ -39,8 +40,3 @@ If we foster strong communities that understand their place in the global narrat
 If we believe that the world doesn’t have to be a terrible place, doomed to resource war and total extinction of all life, then we can open our minds to beautiful alternatives.
 
 If we build a thrivable future, then we can live in one.
-
-
-
-
-
