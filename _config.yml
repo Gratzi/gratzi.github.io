@@ -27,7 +27,7 @@ baseurl: ""
 twitter_handle: '@augustinbralley'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: gratzius
 
 # social icons and sharing options
 social:
