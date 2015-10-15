@@ -6,7 +6,7 @@ categories: manifestation
 tags: featured
 image: /assets/article_images/2015-10-06-its_time_to_tell_our_story/tumblr_nn48ptTW7P1teue7jo1_1280.jpg
 ---
-I’m a young idealist. Well, these days not so young and much more of a realist… nonetheless I’m still that young idealist I was when I was 15. I’m still that kid who tried to build a weapon to help America in the Gulf War, and tried to learn hacking so I could bring down the real-world Gibson from that movie Hackers.
+I’m a young idealist. Well, these days not so young and much more of a realist… nonetheless I’m still that young idealist I was when I was a 10. I’m still that kid who tried to build a weapon to help America in the Gulf War, and tried to learn hacking so I could bring down the real-world Gibson from that movie Hackers.
 
 I’m just a bigger kid now, working on real solutions to real problems. I’ve a wide-eyed obsession with humanity’s big struggles and a fool’s belief in my power to do something about them. I’m also more humbled than ever by the great Unknown that lives between ideas and reality.
 
