@@ -33,7 +33,7 @@ If we architect generative systems that enable massive groups of people to work 
 
 If we educate people in practical and rewarding ways, guided by each individual's own inner compass, we can unlock vast human potential.
 
-If we foster strong communities that understand their place in the global narrative, we can create positive change that begins where it counts--change that trickles up.
+If we foster strong communities that understand their place in the global narrative, we can create positive change that begins where it counts and then trickles up.
 
 If we believe that the world doesn’t have to be a terrible place, doomed to resource war and total extinction of all life, then we can start to open our minds to beautiful alternatives.
 
