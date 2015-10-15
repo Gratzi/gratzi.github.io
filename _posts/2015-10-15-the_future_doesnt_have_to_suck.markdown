@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "The future doesn't have to suck"
-date:   2015-10-15 12:34:25
+title: "The future doesn't have to suck"
+date: 2015-10-15T12:34:25.000Z
 categories: thrivability
-image: /assets/article_images/2015-10-15-the_future_doesnt_have_to_suck/tumblr_nr3awxk5Pr1teue7jo1_1280.jpg
+image: "/assets/article_images/2015-10-15-the_future_doesnt_have_to_suck/tumblr_nr3awxk5Pr1teue7jo1_1280.jpg"
+published: true
 ---
+
 Last night I attended the [Thrivable Future Salon](http://www.futuresalon.org/2015/09/thrivable-future-salon-14th-of-october.html "Future Salon") hosted by Jean Russell and Mark Finnern. It was one of those times when I felt truly grateful for living in San Francisco and being a part of the magic here. I found myself in a room full of people doing amazing things, dreaming big, making their life’s work about building a better future for all. My people.
 ##Topics covered
 
@@ -36,8 +38,3 @@ If we foster strong communities that understand their global context, we can cre
 If we believe that the world doesn’t have to be a terrible place, doomed to resource war and total extinction of all life, then we can start to open our minds to beautiful alternatives.
 
 If we build a thrivable future, then we can live in one.
-
-
-
-
-
